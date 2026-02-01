@@ -11,3 +11,5 @@ Spark SQL is broken up into five subprojects:
  - HiveServer and CLI support (sql/hive-thriftserver) - Includes support for the SQL CLI (bin/spark-sql) and a HiveServer2 (for JDBC/ODBC) compatible server.
 
 Running `./sql/create-docs.sh` generates SQL documentation for built-in functions under `sql/site`, and SQL configuration documentation that gets included as part of `configuration.md` in the main `docs` directory.
+#01-02-2026
+Checking on Pull request
